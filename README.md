@@ -99,7 +99,6 @@ https://user-images.githubusercontent.com/92052904/174496687-6f9b039f-9324-48e7-
 **CycleGAN Results**
 
 I've attempted to load all sorts of images to test this newly trained model, from calligraphy to nature photography. I've noticed that this model generates really interesting images from high contrast input with a light background. This is not surprising since the original dataset used ultilizes black ink calligraphy on a white background. On the other hand, the generated images for input with low contrast is somewhat less impressive and just adds a layer of color, noise, and vintage to the original.
-Final Dataset generated from StyleGAN2 ADA
 
 Final Style Transfer weights used for the CycleGAN
 
