@@ -25,6 +25,10 @@ For this project, I used two pre-existing colab Notebooks, StyleGAN2 ADA attribu
 | StyleGAN2 ADA Notebook  | Copyright (c) 2020, NVIDIA Corporation. All rights reserved. NVIDIA Source Code License for StyleGAN2 with Adaptive Discriminator Augmentation (ADA)  | https://github.com/dvschultz/stylegan2-ada  |
 | CycleGAN-Pix2Pix Notebook  | Copyright (c) 2017, Jun-Yan Zhu and Taesung Park. All rights reserved.  | https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix  |
 
+| Notebooks  |
+| ---------- |
+| StyleGAN2 ADA Notebook  |
+
 WHAT I CHANGED
 <br>
 I tweaked and modified the existing colab notebooks to suit the nature of my project. As someone who doesn't have an extensive knowledge of python, I did resort to google and forums for most of the changes I wanted to apply. Therefore, there is a lot of third party code which I have taken the length to understand in order to modify accordingly and make sure users don't run into errors while using these notebooks.
