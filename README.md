@@ -10,6 +10,8 @@
 
 ![Asset 1-100](https://user-images.githubusercontent.com/92052904/174483211-41665523-dce5-4ce3-bff3-31d625cc5381.jpg)
 
+<hr>
+
 #### THIRD PARTY RESOURCES:
 
 ATTRIBUTIONS
@@ -19,3 +21,5 @@ For this project, I used two pre-existing colab Notebooks, StyleGAN2 ADA attribu
 WHAT I CHANGED
 <br>
 I tweaked and modified the existing colab notebooks to suit the nature of my project. As someone who doesn't have an extensive knowledge of python, I did resort to google and forums for most of the changes I wanted to apply. Therefore, there is a lot of third party code which I have taken the length to understand in order to modify accordingly and make sure users don't run into errors while using these notebooks.
+
+<hr>
