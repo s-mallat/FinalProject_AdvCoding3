@@ -6,15 +6,15 @@
 
 <hr>
 
-#### PROJECT STRUCTURE:
+## Project Structure:
 
 ![Asset 1-100](https://user-images.githubusercontent.com/92052904/174483211-41665523-dce5-4ce3-bff3-31d625cc5381.jpg)
 
 <hr>
 
-#### THIRD PARTY RESOURCES:
+## Third Party Resources:
 
-ATTRIBUTIONS
+### Attributions
 <br>
 For this project, I used two pre-existing colab Notebooks, StyleGAN2 ADA attributed to Derrick Schultz and NVIDIA, and CycleGAN-pix2pix adaptation attributed to Jun-Yan Zhu and Taesung Park. I included a copy of each notebook's license in this Github repo, as well as an attribution section at the top of each colab notebook. Furthermore, I have also used other third party code which I reference when used in the colab code block itself.
 
@@ -47,7 +47,7 @@ For this project, I used two pre-existing colab Notebooks, StyleGAN2 ADA attribu
 | https://colab.research.google.com/drive/1AG19IKJ_J28-LjjOo2ntY1uLsMDHEuAs#scrollTo=N2RBLT6rYBAJ | 
 | https://www.behance.net/gallery/8297685/Rurubu |
 
-WHAT I CHANGED
+### What I Changed
 <br>
 I tweaked and modified the existing colab notebooks to suit the nature of my project. As someone who doesn't have an extensive knowledge of python, I did resort to google and forums for most of the changes I wanted to apply. Therefore, there is a lot of third party code which I have taken the length to understand in order to modify accordingly and make sure users don't run into errors while using these notebooks.
 
