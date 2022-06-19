@@ -8,7 +8,7 @@
   - [Project Description](https://github.com/s-mallat/FinalProject_AdvCoding3/blob/main/README.md#project-description)
   - [Project Structure](https://github.com/s-mallat/FinalProject_AdvCoding3/blob/main/README.md#project-structure)
   - [Third Party Resources](https://github.com/s-mallat/FinalProject_AdvCoding3/blob/main/README.md#third-party-resources)
-  - [Development and Process](https://github.com/s-mallat/FinalProject_AdvCoding3/blob/main/README.md#development-and-process)
+  - [Process Documentation](https://github.com/s-mallat/FinalProject_AdvCoding3/blob/main/README.md#process-documentation)
   - [Results and Evaluation](https://github.com/s-mallat/FinalProject_AdvCoding3/blob/main/README.md#results-and-evaluation)
 
 ---
@@ -71,7 +71,7 @@ I tweaked and modified the existing colab notebooks to suit the nature of my pro
 
 ---
 
-## Development and Process
+## Process Documentation
 ### StyleGAN2 ADA
 
 https://user-images.githubusercontent.com/92052904/174496754-c30aa7bd-715a-49e2-a522-840d0c797597.mp4
