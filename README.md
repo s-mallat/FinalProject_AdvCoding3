@@ -1,5 +1,4 @@
-# Advanced Coding 3: Exploring Machine Intelligence
-# Final Project
+# Advanced Coding 3: Exploring Machine Intelligence <br> Final Project
 
 <hr>
 
