@@ -23,7 +23,7 @@ I decided to load my small dataset of 33 images into a StyleGAN2 ADA model that 
 
 My next step was loading the new dataset into a CycleGAN model and applying a style transfer. Since I already had the Animal Faces dataset from Kaggle downloaded on my machine, I chose to use it for the style transfer. My intention wasn't to turn animal faces to black and white high contrast images similar to that of the calligraphy images, but rather to transfer the three dimensionality of photography to flat two dimensional calligraphy strokes. 
 
-
+I would say that I learnt a lot through this project, as I initially was unsure how to even load my own dataset or tweak the existing code and debug any issues I encountered. Eventually however, I became comfortable enough to not just load a dataset, but to use multiple GAN models that use different machine learning libraries and successfully generate images from them.
 
 
 ---
