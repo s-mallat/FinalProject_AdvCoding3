@@ -6,9 +6,10 @@
 
 <hr>
 
-## Contents
+## Table of Contents
 
 - [Project Structure](https://github.com/s-mallat/FinalProject_AdvCoding3/blob/main/README.md#project-structure)
+- [Third Party Resources](https://github.com/s-mallat/FinalProject_AdvCoding3/blob/main/README.md#project-structure)
 - 
 
 ## Project Structure:
