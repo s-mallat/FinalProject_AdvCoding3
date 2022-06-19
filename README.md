@@ -8,7 +8,7 @@
 
 ## Contents
 
-- [Project Structure](#Project Structure)
+- [Project Structure](https://github.com/s-mallat/FinalProject_AdvCoding3/blob/main/README.md#project-structure)
 - 
 
 ## Project Structure:
