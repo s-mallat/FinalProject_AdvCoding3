@@ -8,9 +8,13 @@
 
 ## Table of Contents
 
-- [Project Structure](https://github.com/s-mallat/FinalProject_AdvCoding3/blob/main/README.md#project-structure)
-- [Third Party Resources](https://github.com/s-mallat/FinalProject_AdvCoding3/blob/main/README.md#third-party-resources)
-- 
+## - Project Description
+## - [Project Structure](https://github.com/s-mallat/FinalProject_AdvCoding3/blob/main/README.md#project-structure)
+## - [Third Party Resources](https://github.com/s-mallat/FinalProject_AdvCoding3/blob/main/README.md#third-party-resources)
+## - Development & Process
+## - Results & Evaluation
+
+## Project Description:
 
 ## Project Structure:
 
@@ -56,6 +60,7 @@ I tweaked and modified the existing colab notebooks to suit the nature of my pro
 
 <hr>
 
-## About This Project:
+## Development & Process:
+## Results & Evaluation:
 
 
