@@ -2,17 +2,16 @@
 
 <hr>
 
-## Video Documentation:
-
-<hr>
-
 ## Table of Contents
 
+- Video Documentation
 - Project Description
 - [Project Structure](https://github.com/s-mallat/FinalProject_AdvCoding3/blob/main/README.md#project-structure)
 - [Third Party Resources](https://github.com/s-mallat/FinalProject_AdvCoding3/blob/main/README.md#third-party-resources)
 - Development & Process
 - Results & Evaluation
+
+## Video Documentation:
 
 ## Project Description:
 
