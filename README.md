@@ -89,6 +89,9 @@ Applying Style Transfer on my Published Lettering Work
 https://user-images.githubusercontent.com/92052904/174496270-4b4db1de-8163-41ff-9736-2a580ab31788.mp4
 
 Training the already trained model on a Flower dataset to produce more colorful images
+
+![epoch040_fake_B-2](https://user-images.githubusercontent.com/92052904/174497892-9666db6d-15e1-40e8-8a71-7bd7cf0fd826.png)
+
 ![Unknown-7](https://user-images.githubusercontent.com/92052904/174496162-064afaf9-1f4c-4d92-9cb4-dc555eb65eef.png)
 
 ---
