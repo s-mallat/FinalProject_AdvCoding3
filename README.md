@@ -71,7 +71,13 @@ I tweaked and modified the existing colab notebooks to suit the nature of my pro
 
 ---
 
-## Development and Process:
+## Development and Process: Part 1
+### StyleGAN2 ADA
+
+
+https://user-images.githubusercontent.com/92052904/174496687-6f9b039f-9324-48e7-b57c-99e5b42ead82.mp4
+
+
 
 ![Asset 2-100](https://user-images.githubusercontent.com/92052904/174496201-9e0f6fff-dce0-44f6-b958-b211f399b456.jpg)
 
