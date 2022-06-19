@@ -25,9 +25,9 @@ For this project, I used two pre-existing colab Notebooks, StyleGAN2 ADA attribu
 | StyleGAN2 ADA Notebook  | Copyright (c) 2020, NVIDIA Corporation. All rights reserved. NVIDIA Source Code License for StyleGAN2 with Adaptive Discriminator Augmentation (ADA)  | https://github.com/dvschultz/stylegan2-ada  |
 | CycleGAN-Pix2Pix Notebook  | Copyright (c) 2017, Jun-Yan Zhu and Taesung Park. All rights reserved.  | https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix  |
 
-| Notebooks  |
+| Other References  |
 | ---------- |
-| StyleGAN2 ADA Notebook  |
+| [StackOverflow](https://stackoverflow.com/questions/69986297/what-is-the-nvidia-smi-command-do)  |
 
 WHAT I CHANGED
 <br>
