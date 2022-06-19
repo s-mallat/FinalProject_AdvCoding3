@@ -8,5 +8,5 @@
 
 #### PROJECT STRUCTURE:
 
-![ProjectStructure](https://user-images.githubusercontent.com/92052904/174483085-9c6503f7-4c8d-4b96-a1af-abf1e8a18fd6.jpg)
+![Asset 1-100](https://user-images.githubusercontent.com/92052904/174483211-41665523-dce5-4ce3-bff3-31d625cc5381.jpg)
 
