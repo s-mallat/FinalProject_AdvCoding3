@@ -4,12 +4,12 @@
 
 ## Table of Contents
 
-- Video Documentation
-- Project Description
+- [Video Documentation](https://github.com/s-mallat/FinalProject_AdvCoding3/blob/main/README.md#video-documentation)
+- [Project Description](https://github.com/s-mallat/FinalProject_AdvCoding3/blob/main/README.md#project-description)
 - [Project Structure](https://github.com/s-mallat/FinalProject_AdvCoding3/blob/main/README.md#project-structure)
 - [Third Party Resources](https://github.com/s-mallat/FinalProject_AdvCoding3/blob/main/README.md#third-party-resources)
-- Development & Process
-- Results & Evaluation
+- [Development and Process](https://github.com/s-mallat/FinalProject_AdvCoding3/blob/main/README.md#development-and-process)
+- [Results and Evaluation](https://github.com/s-mallat/FinalProject_AdvCoding3/blob/main/README.md#results-and-evaluation)
 
 ## Video Documentation:
 
@@ -59,7 +59,7 @@ I tweaked and modified the existing colab notebooks to suit the nature of my pro
 
 <hr>
 
-## Development & Process:
-## Results & Evaluation:
+## Development and Process:
+## Results and Evaluation:
 
 
