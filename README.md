@@ -1,25 +1,30 @@
 # Advanced Coding 3: Exploring Machine Intelligence <br> Final Project | Sali Mallat | 20040127
 
-<hr>
+---
 
 ## Table of Contents
 
-- [Video Documentation](https://github.com/s-mallat/FinalProject_AdvCoding3/blob/main/README.md#video-documentation)
-- [Project Description](https://github.com/s-mallat/FinalProject_AdvCoding3/blob/main/README.md#project-description)
-- [Project Structure](https://github.com/s-mallat/FinalProject_AdvCoding3/blob/main/README.md#project-structure)
-- [Third Party Resources](https://github.com/s-mallat/FinalProject_AdvCoding3/blob/main/README.md#third-party-resources)
-- [Development and Process](https://github.com/s-mallat/FinalProject_AdvCoding3/blob/main/README.md#development-and-process)
-- [Results and Evaluation](https://github.com/s-mallat/FinalProject_AdvCoding3/blob/main/README.md#results-and-evaluation)
+  - [Video Documentation](https://github.com/s-mallat/FinalProject_AdvCoding3/blob/main/README.md#video-documentation)
+  - [Project Description](https://github.com/s-mallat/FinalProject_AdvCoding3/blob/main/README.md#project-description)
+  - [Project Structure](https://github.com/s-mallat/FinalProject_AdvCoding3/blob/main/README.md#project-structure)
+  - [Third Party Resources](https://github.com/s-mallat/FinalProject_AdvCoding3/blob/main/README.md#third-party-resources)
+  - [Development and Process](https://github.com/s-mallat/FinalProject_AdvCoding3/blob/main/README.md#development-and-process)
+  - [Results and Evaluation](https://github.com/s-mallat/FinalProject_AdvCoding3/blob/main/README.md#results-and-evaluation)
 
-> ## Video Documentation:
+---
 
+## Video Documentation:
+---
 ## Project Description:
 
+My project was inspired by Helena Sarin's process and her application of CycleGAN in her own practice. While reading through the article assigned as a class reading, I remember thinking that I want to experiment just like that since I am an artist myself, a lettering artist to be more specific. When I first started working on my final project, I didn't know where to start as I did not have nearly enough data to train a GAN and I knew that I wanted to use my own lettering work as an input. My first step milestone in this project was to have enough data to be able to train any model. Therefore, I started with a StyleGAN2 ADA by Derrick Schultz since did not require as much data to train. I loaded around 20 sketches and prayed the model would work. It didn't 
+
+---
 ## Project Structure:
 
 ![Asset 1-100](https://user-images.githubusercontent.com/92052904/174483211-41665523-dce5-4ce3-bff3-31d625cc5381.jpg)
 
-<hr>
+---
 
 ## Third Party Resources:
 
@@ -57,9 +62,10 @@ I tweaked and modified the existing colab notebooks to suit the nature of my pro
 | https://colab.research.google.com/drive/1AG19IKJ_J28-LjjOo2ntY1uLsMDHEuAs#scrollTo=N2RBLT6rYBAJ | 
 | https://www.behance.net/gallery/8297685/Rurubu |
 
-<hr>
+---
 
 ## Development and Process:
+---
 ## Results and Evaluation:
 
 
