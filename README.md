@@ -17,11 +17,13 @@
 ---
 ## Project Description:
 
-My project was inspired by Helena Sarin's process and her application of CycleGAN in her own practice. From the moment I read the article on Sarin's work, I knew that I wanted to use my own lettering/calligraphy work as a dataset in my final project, even before deciding on which model or ML library to use. The purpose of my project is purely experimental, as I use two different GAN models (StyleGAN2 and CycleGAN) to generate images. Throughout this process, I encountered so many challenges starting from the fact that I didn't have nearly enough data to train any model. As a versatile artist, my work doesn't follow a specific style or pattern, and that meant that I had to start drawing my own dataset. Soon, I realized that that plan was too exhausting and time-consuming, so I opted for different approach. 
+My project was inspired by Helena Sarin's process and her application of CycleGAN in her own practice. From the moment I read the article on Sarin's work, I knew that I wanted to use my own lettering/calligraphy work as a dataset in my final project, even before deciding on which model or ML library to use. The purpose of my project is purely experimental, as I use two different GAN models (StyleGAN2 ADA using Tensorflow and CycleGAN using Pytorch) to generate images. Throughout this process, I encountered so many challenges starting from the fact that I didn't have nearly enough data to train any model. As a versatile artist, my work doesn't follow a specific style or pattern, and that meant that I had to start drawing my own dataset. Soon, I realized that that plan was too exhausting and time-consuming, so I opted for different approach. 
 
 I decided to load my small dataset of 33 images into a StyleGAN2 ADA model that didn't require a large dataset to train. My aim was to train the model so that it can generate the new dataset for me and hopefully that would allow me to avoid drawing hundreds of images. After a long process of trial and error, my new dataset was finally generated from the StyleGAN2 ADA model. 
 
-My next step was loading the new dataset into a CycleGAN model and apply a style transfer of some sort. Since I already had the Animal Faces dataset from Kaggle downloaded on my machine, I chose to use it for the style transfer. My intention wasn't to turn animal faces to black and white high contrast images, but rather to add that three dimensionality of photography to flat two dimensional calligraphy strokes. 
+My next step was loading the new dataset into a CycleGAN model and applying a style transfer. Since I already had the Animal Faces dataset from Kaggle downloaded on my machine, I chose to use it for the style transfer. My intention wasn't to turn animal faces to black and white high contrast images similar to that of the calligraphy images, but rather to transfer the three dimensionality of photography to flat two dimensional calligraphy strokes. 
+
+
 
 
 ---
