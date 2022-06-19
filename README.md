@@ -72,6 +72,11 @@ I tweaked and modified the existing colab notebooks to suit the nature of my pro
 ---
 
 ## Development and Process:
+
+![Asset 2-100](https://user-images.githubusercontent.com/92052904/174496201-9e0f6fff-dce0-44f6-b958-b211f399b456.jpg)
+![Unknown-7](https://user-images.githubusercontent.com/92052904/174496162-064afaf9-1f4c-4d92-9cb4-dc555eb65eef.png)
+
+
 ---
 ## Results and Evaluation:
 
