@@ -18,14 +18,13 @@ ATTRIBUTIONS
 <br>
 For this project, I used two pre-existing colab Notebooks, StyleGAN2 ADA attributed to Derrick Schultz and NVIDIA, and CycleGAN-pix2pix adaptation attributed to Jun-Yan Zhu and Taesung Park. I included a copy of each notebook's license in this Github repo, as well as an attribution section at the top of each colab notebook. Furthermore, I have also used other third party code which I reference when used in the colab code block itself.
 
-StyleGAN2 ADA Notebook:
-  Copyright (c) 2020, NVIDIA Corporation. All rights reserved.
-  NVIDIA Source Code License for StyleGAN2 with Adaptive Discriminator Augmentation (ADA)
+
   
-| Resource  | Reference |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| Resource  | Reference | Original |
+| ------------- | ------------- |------------- |
+| StyleGAN2 ADA Notebook  | Copyright (c) 2020, NVIDIA Corporation. All rights reserved.
+  NVIDIA Source Code License for StyleGAN2 with Adaptive Discriminator Augmentation (ADA)  | https://github.com/dvschultz/stylegan2-ada  |
+| Content Cell  | Content Cell  | Content Cell  |
 
 WHAT I CHANGED
 <br>
