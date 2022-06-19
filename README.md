@@ -6,5 +6,7 @@
 
 <hr>
 
-#### PROJECT BREAKDOWN:
+#### PROJECT STRUCTURE:
+
+![ProjectStructure](https://user-images.githubusercontent.com/92052904/174483085-9c6503f7-4c8d-4b96-a1af-abf1e8a18fd6.jpg)
 
