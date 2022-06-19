@@ -15,7 +15,7 @@
 
 ## Video Documentation:
 ---
-## Project Description:
+## Project Description
 
 My project was inspired by Helena Sarin's process and her application of CycleGAN in her own practice. From the moment I read the article on Sarin's work, I knew that I wanted to use my own lettering/calligraphy work as a dataset in my final project, even before deciding on which model or ML library to use. The purpose of my project is purely experimental, as I use two different GAN models (StyleGAN2 ADA using Tensorflow and CycleGAN using Pytorch) to generate images. Throughout this process, I encountered so many challenges starting from the fact that I didn't have nearly enough data to train any model. As a versatile artist, my work doesn't follow a specific style or pattern, and that meant that I had to start drawing my own dataset. Soon, I realized that that plan was too exhausting and time-consuming, so I opted for different approach. 
 
@@ -27,13 +27,13 @@ I would say that I learnt a lot through this project, as I initially was unsure 
 
 
 ---
-## Project Structure:
+## Project Structure
 
 ![Asset 1-100](https://user-images.githubusercontent.com/92052904/174483211-41665523-dce5-4ce3-bff3-31d625cc5381.jpg)
 
 ---
 
-## Third Party Resources:
+## Third Party Resources
 
 ### Attributions
 For this project, I used two pre-existing colab Notebooks, StyleGAN2 ADA attributed to Derrick Schultz and NVIDIA, and CycleGAN-pix2pix adaptation attributed to Jun-Yan Zhu and Taesung Park. I included a copy of each notebook's license in this Github repo, as well as an attribution section at the top of each colab notebook. Furthermore, I have also used other third party code which I reference when used in the colab code block itself.
@@ -71,11 +71,8 @@ I tweaked and modified the existing colab notebooks to suit the nature of my pro
 
 ---
 
-## Development and Process: Part 1
+## Development and Process
 ### StyleGAN2 ADA
-
-
-https://user-images.githubusercontent.com/92052904/174496687-6f9b039f-9324-48e7-b57c-99e5b42ead82.mp4
 
 https://user-images.githubusercontent.com/92052904/174496754-c30aa7bd-715a-49e2-a522-840d0c797597.mp4
 
@@ -90,10 +87,15 @@ https://user-images.githubusercontent.com/92052904/174496270-4b4db1de-8163-41ff-
 
 ![Unknown-7](https://user-images.githubusercontent.com/92052904/174496162-064afaf9-1f4c-4d92-9cb4-dc555eb65eef.png)
 
+---
+## Results and Evaluation
+
+The end-results of this experimental project were somewhat surprising, mostly because I really did start with not even knowing how to properly load a external dataset. So, I would say that I'm very happy and impressed with the final outcome. I've attempted to load all sorts of images to test this newly trained model, from calligraphy to nature photography. I've noticed that this model generates really interesting images from high contrast input with a light background. This is not surprising since the original dataset used ultilizes black ink calligraphy on a white background. On the other hand, the generated images for input with low contrast is somewhat less impressive and just adds a layer of color, noise, and vintage to the original.
+Final Dataset generated from StyleGAN2 ADA
+
+https://user-images.githubusercontent.com/92052904/174496687-6f9b039f-9324-48e7-b57c-99e5b42ead82.mp4
+
+Final Style Transfer weights used for the CycleGAN
+
 ![Unknown-8](https://user-images.githubusercontent.com/92052904/174496344-09830e7b-1685-43bb-8188-83037238c6ba.png)
 ![Unknown-9](https://user-images.githubusercontent.com/92052904/174496353-c62574c7-ea1d-4813-98fb-5d32a5cb4c95.png)
-
----
-## Results and Evaluation:
-
-
