@@ -25,17 +25,27 @@ For this project, I used two pre-existing colab Notebooks, StyleGAN2 ADA attribu
 | StyleGAN2 ADA Notebook  | Copyright (c) 2020, NVIDIA Corporation. All rights reserved. NVIDIA Source Code License for StyleGAN2 with Adaptive Discriminator Augmentation (ADA)  | https://github.com/dvschultz/stylegan2-ada  |
 | CycleGAN-Pix2Pix Notebook  | Copyright (c) 2017, Jun-Yan Zhu and Taesung Park. All rights reserved.  | https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix  |
 
+| Dataset | Reference |
+| ------- | --------- |
+| Calligraphy | Created by me |
+| AFHQ | Kaggle (https://www.kaggle.com/datasets/andrewmvd/animal-faces) |
+
 | Other References  |
 | ---------- |
 | https://stackoverflow.com/questions/69986297/what-is-the-nvidia-smi-command-do  |
 | https://exerror.com/notimplementederror-cannot-convert-a-symbolic-tensor-2nd_target0-to-a-numpy-array/ |
 | https://stackoverflow.com/questions/1855095/how-to-create-a-zip-archive-of-a-directory |
 | https://stackoverflow.com/questions/50453428/how-do-i-download-multiple-files-or-an-entire-folder-from-google-colab |
-
-| Dataset | Reference |
-| ------- | --------- |
-| Calligraphy | Created by me |
-| AFHQ | Kaggle (https://www.kaggle.com/datasets/andrewmvd/animal-faces) |
+| https://www.guru99.com/python-rename-file.html |
+| https://www.geeksforgeeks.org/create-a-directory-in-python/ |
+| https://stackoverflow.com/questions/123198/how-to-copy-files | 
+| https://www.geeksforgeeks.org/rename-multiple-files-using-python/ |
+| https://www.geeksforgeeks.org/how-to-display-multiple-images-in-one-figure-correctly-in-matplotlib/ | 
+| https://kanoki.org/2021/05/11/show-images-in-grid-inside-jupyter-notebook-using-matplotlib-and-numpy/ |
+| https://colab.research.google.com/github/jasper-zheng/colab-snippets/blob/main/aw_code_snippets.ipynb#scrollTo=h5RmA9ywA4a- |
+| https://stackoverflow.com/questions/1274405/how-to-create-new-folder |
+| https://colab.research.google.com/drive/1AG19IKJ_J28-LjjOo2ntY1uLsMDHEuAs#scrollTo=N2RBLT6rYBAJ | 
+| https://www.behance.net/gallery/8297685/Rurubu |
 
 WHAT I CHANGED
 <br>
