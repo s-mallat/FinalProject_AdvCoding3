@@ -109,5 +109,11 @@ I've attempted to load all sorts of images to test this newly trained model, fro
 
 Final Style Transfer weights used for the CycleGAN
 
+Image Source: Generated Calligraphy from StyleGAN2 ADA
 ![Unknown-8](https://user-images.githubusercontent.com/92052904/174496344-09830e7b-1685-43bb-8188-83037238c6ba.png)
+
+Image Source: My own original calligraphy
 ![Unknown-9](https://user-images.githubusercontent.com/92052904/174496353-c62574c7-ea1d-4813-98fb-5d32a5cb4c95.png)
+
+Image Source: https://www.behance.net/gallery/8297685/Rurubu
+![Unknown-12](https://user-images.githubusercontent.com/92052904/174498470-00777abc-b4c0-4065-b55f-d9ba9ed1a66a.png)
