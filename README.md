@@ -17,7 +17,7 @@
 ---
 ## Project Description:
 
-My project was inspired by Helena Sarin's process and her application of CycleGAN in her own practice. While reading through the article assigned as a class reading, I remember thinking that I want to experiment just like that since I am an artist myself, a lettering artist to be more specific. When I first started working on my final project, I didn't know where to start as I did not have nearly enough data to train a GAN and I knew that I wanted to use my own lettering work as an input. My first step milestone in this project was to have enough data to be able to train any model. Therefore, I started with a StyleGAN2 ADA by Derrick Schultz since did not require as much data to train. I loaded around 20 sketches and prayed the model would work. It didn't 
+My project was inspired by Helena Sarin's process and her application of CycleGAN in her own practice. While reading through the article assigned as a class reading, I remember thinking that I want to experiment just like that since I am an artist myself, a lettering artist to be more specific. When I first started working on my final project, I didn't know where to start as I did not have nearly enough data to train a GAN and I knew that I wanted to use my own lettering work as an input. My first step milestone in this project was to have enough data to be able to train any model. Therefore, I started with a StyleGAN2 ADA by Derrick Schultz since did not require as much data to train. I loaded around 20 sketches and prayed the model would work. It didn't. So, I sketched some more, and loaded 33 images and it worked. 
 
 ---
 ## Project Structure:
