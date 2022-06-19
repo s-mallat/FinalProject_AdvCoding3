@@ -27,7 +27,15 @@ For this project, I used two pre-existing colab Notebooks, StyleGAN2 ADA attribu
 
 | Other References  |
 | ---------- |
-| [StackOverflow](https://stackoverflow.com/questions/69986297/what-is-the-nvidia-smi-command-do)  |
+| https://stackoverflow.com/questions/69986297/what-is-the-nvidia-smi-command-do  |
+| https://exerror.com/notimplementederror-cannot-convert-a-symbolic-tensor-2nd_target0-to-a-numpy-array/ |
+| https://stackoverflow.com/questions/1855095/how-to-create-a-zip-archive-of-a-directory |
+| https://stackoverflow.com/questions/50453428/how-do-i-download-multiple-files-or-an-entire-folder-from-google-colab |
+
+| Dataset | Reference |
+| ------- | --------- |
+| Calligraphy | Created by me |
+| AFHQ | Kaggle (https://www.kaggle.com/datasets/andrewmvd/animal-faces) |
 
 WHAT I CHANGED
 <br>
