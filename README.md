@@ -2,9 +2,9 @@
 
 <hr>
 
-## Link to Video Documentation:
+## Video Documentation:
 
 <hr>
 
-### Project Breakdown:
+#### PROJECT BREAKDOWN:
 
