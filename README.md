@@ -1,5 +1,5 @@
 # Advanced Coding 3: Exploring Machine Intelligence <br> Final Project | Sali Mallat | 20040127
-# Link to this Repo: https://github.com/s-mallat/FinalProject_AdvCoding3
+## Link to this Repo: https://github.com/s-mallat/FinalProject_AdvCoding3
 
 ---
 
